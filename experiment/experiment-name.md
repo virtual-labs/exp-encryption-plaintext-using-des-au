@@ -1,1 +1,1 @@
-## Experiment 2 - DES Decryption
+## Experiment 2 - DES Encryption
