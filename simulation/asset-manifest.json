@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exp-encryption-plaintext-using-des-au/simulation/static/css/main.b24d3131.css",
+    "main.js": "/exp-encryption-plaintext-using-des-au/simulation/static/js/main.d567cd40.js",
+    "static/js/787.8e63a2e3.chunk.js": "/exp-encryption-plaintext-using-des-au/simulation/static/js/787.8e63a2e3.chunk.js",
+    "index.html": "/exp-encryption-plaintext-using-des-au/simulation/index.html",
+    "main.b24d3131.css.map": "/exp-encryption-plaintext-using-des-au/simulation/static/css/main.b24d3131.css.map",
+    "main.d567cd40.js.map": "/exp-encryption-plaintext-using-des-au/simulation/static/js/main.d567cd40.js.map",
+    "787.8e63a2e3.chunk.js.map": "/exp-encryption-plaintext-using-des-au/simulation/static/js/787.8e63a2e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b24d3131.css",
+    "static/js/main.d567cd40.js"
+  ]
+}
